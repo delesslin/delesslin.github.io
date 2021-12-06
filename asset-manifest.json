@@ -1,0 +1,30 @@
+{
+  "files": {
+    "app.js": "/static/js/app.f6632add.chunk.js",
+    "app.js.map": "/static/js/app.f6632add.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
+    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
+    "static/js/2.eeb673fd.chunk.js": "/static/js/2.eeb673fd.chunk.js",
+    "static/js/2.eeb673fd.chunk.js.map": "/static/js/2.eeb673fd.chunk.js.map",
+    "fonts/RobotoCondensed-Bold.ttf": "/./fonts/RobotoCondensed-Bold.ttf",
+    "fonts/RobotoMono-Italic-VariableFont_wght.ttf": "/./fonts/RobotoMono-Italic-VariableFont_wght.ttf",
+    "fonts/RobotoMono-VariableFont_wght.ttf": "/./fonts/RobotoMono-VariableFont_wght.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.eeb673fd.chunk.js.LICENSE.txt": "/static/js/2.eeb673fd.chunk.js.LICENSE.txt",
+    "static/media/cashapp.png": "/static/media/cashapp.82eb3b68.png",
+    "static/media/heron.png": "/static/media/heron.7770d5eb.png",
+    "static/media/noun-piggy-bank-1005096.png": "/static/media/noun-piggy-bank-1005096.ca8468f8.png",
+    "static/media/paypal.png": "/static/media/paypal.0c8894d0.png",
+    "static/media/venmo.png": "/static/media/venmo.e4835221.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.2e9f1821.js",
+    "static/js/2.eeb673fd.chunk.js",
+    "static/js/app.f6632add.chunk.js"
+  ]
+}
